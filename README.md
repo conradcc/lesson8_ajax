@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 7th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Emma Conrad
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+For this assignment we used AJAX, JSON and API for the first time.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://conradcc.github.io/lesson8_ajax/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. You need to register for an API key and how to register
+2. The AJAX function allows you to use AJAX in the website.
+3. You can create place holders with the id.
